@@ -1,5 +1,5 @@
-# code-of-wetware
-## cow-letter-1-humility-scales
+# code-of-wetware-newsletter
+## cow-1-humility-scales
 In the normative context of working as a professional Full Stack Developer, and subsequently contractor, the modus vivendi of interaction, work ethic or overall moral composure and behavior _regarding anyone and anything involved_ should line up among all participants.
 
 The solution here is fractalism. From the concrete coding station and setup of a developer, or entire team at hand, through the project manager(s) to the CTO or CEO: Everyone deals with the same abstract clusters of Enablers within the (global) market, the concrete business, the (multi) project (managment), the concrete product and even the single unit test, and is ultimately human.
